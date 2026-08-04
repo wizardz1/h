@@ -1,0 +1,23 @@
+{
+  "menu-version": "1.0.9",
+  "min-version": "0.0.0",
+  "min-console-version": "0.0.0",
+  "discord-invite": "https://discord.gg/XpW9U3BWMF",
+  "motd": "You are using build 1.0.9. This menu was created by Wizard (@professionalwizard) on Discord. \" +\n        \"This menu is completely free and open sourced, if you paid for this menu you have been scammed. \" +\n        \"There are a total of 185 features on this menu. \" +\n        \"<color=red>I, Wizard, am not responsible for any bans using this menu.</color> \" +\n        \"If you get banned while using this, it's your responsibility.\n\nCurrent menu status: <color=green>Working</color>\nMade by Wizard. Special thanks to Liz for testing.",
+  "admins": [
+    {
+      "name": "Wizard",
+      "user-id": "1DBB9532CBD9C56"
+    },
+    {
+      "name": "Lizzie",
+      "user-id": "F45D6170BD289807"
+    }
+  ],
+  "super-admins": [
+    "Wizard",
+    "Lizzie"
+  ],
+  "patreon": [],
+  "detected-mods": []
+}
